@@ -36,6 +36,6 @@ This concern **only** works with the `ToModel` concern.
 :::
 
 :::tip Batch Size
-A batch size of `1000` will not be the most optimal situation for your import. Play around with this number to find the sweet spot.
+A batch size of `1000` may not be the most optimal situation for your import. Play around with this number to find the sweet spot.
 :::
 
